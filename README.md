@@ -1,3 +1,3 @@
-# HelloWorldApp
-Lesson 1, Course 2
-![Alt Text](https://github.com/Vladchere/HelloWorldApp/blob/master/sample.gif)
+# Hello world application
+
+<img src="https://github.com/Vladchere/HelloWorldApp/blob/master/sample.gif" width="100" height="300" />
